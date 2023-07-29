@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RohitUPatil2121
-- 👀 I’m interested in  Prohramming with python
+- 👀 I’m interested in  Programming with python
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
